@@ -1,3 +1,7 @@
+## Project running on Netlify 
+[https://react-breaking-bad-quotes.netlify.app/](https://react-breaking-bad-quotes.netlify.app/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
