@@ -41,7 +41,7 @@ const Quote = ({quote}) => {
 
 
     return (
-        <dQuoteContainer>
+        <QuoteContainer>
             <h1>{quote.quote}</h1>
             <p>{quote.author}</p>
         </QuoteContainer>
